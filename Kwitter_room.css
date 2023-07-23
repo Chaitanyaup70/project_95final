@@ -1,0 +1,50 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#logo{
+  height: 100px;
+  width: 100px;
+}
+#h1{
+    color:maroon;
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+    text-shadow: black;
+}
+#h2-,#welcome,#h5{
+    font-family: 'Slabo 27px', serif;
+    color:gold;
+}
+#div_{
+    background-color: maroon;
+    box-shadow: 5px 5px 30px maroon ;
+    width: 60%;
+
+}
+#room_name{
+    color: maroon;
+    background-color: gold;
+    border-radius: 20%;
+    height:25px;
+    width:250px;
+}
+#add_room{
+    color: maroon;
+    background-color: gold;
+}
+#div-1{
+    color: maroon;
+    background-color: gold;
+    box-shadow: 5px 5px 30px black ;
+}
+#log_out{
+    background-color: gold;
+    color: maroon;
+}
+#img{
+    background-image: url("log_out.png");
+    size: 20%;
+    
+}

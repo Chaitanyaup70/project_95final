@@ -1,0 +1,36 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#logo{
+  height: 100px;
+  width: 100px;
+}
+#h1{
+    color:maroon;
+    font-size: 80px;
+    font-family: 'Lobster', cursive;
+    text-shadow: black;
+}
+#label,#label1{
+    font-family: 'Slabo 27px', serif;
+    color:gold;
+}
+#div{
+    background-color: maroon;
+    box-shadow: 5px 5px 30px black ;
+    width: 60%;
+
+}
+#input1{
+    color: maroon;
+    background-color: gold;
+    border-radius: 20%;
+    height:25px;
+    width:250px;
+}
+#btn{
+    color: maroon;
+    background-color: gold;
+}
